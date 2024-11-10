@@ -1,4 +1,4 @@
-### A GTK4 utility to find and switche between launched apps on Hyprland
+### A GTK4 utility to find and switch between launched apps on Hyprland
 
 ### Controls
 1. When launched you automatically enter search
